@@ -1,0 +1,55 @@
+from introCommand import introCommand
+from buildingFloor import buildingFloor
+
+def HuddleNoProperties(introCommand command) {
+    {command}
+} => huddleNoProperties
+
+from myLiterals import colors
+from myLiterals import environments
+from myLiterals import keywords
+
+def LanguageFeatures(environments ide, colors color, keywords keyword) {
+    integration into a major IDE like {ide}
+    supports syntax highlighting colors like {color}
+    compiles across multiple files with keywords like {keyword}
+} => languageFeatures
+
+
+def HuddleForFloorAndDuration(introCommand command, number duration, number preferredFloor) {
+    {command} for {duration} minutes on floor {preferredFloor}
+    {command} for floor {preferredFloor} for {duration} minutes
+} => huddleForPeopleAndDuration
+
+def HuddleForPeopleAndFloor(introCommand command, number minPeople, number preferredFloor) {
+    {command} for {minPeople} people on floor {preferredFloor}
+    {command} for {minPeople} people for floor {preferredFloor}
+    {command} for floor {preferredFloor} for {minPeople} people
+} => huddleForPeopleAndDuration
+
+def HuddleForPeopleAndDuration(introCommand command, number minPeople, number duration) {
+    {command} for {minPeople} people for {duration} minutes
+    {command} for {duration} minutes for {minPeople} people
+} => huddleForPeopleAndDuration
+
+def HuddleForPeople(introCommand command, number minPeople) {
+    {command} for {minPeople} people
+} => huddleForPeople
+
+def HuddleForDuration(introCommand command, number duration) {
+    {command} for {duration} minutes
+} => huddleForDuration
+
+def HuddleForFloor(introCommand command, number preferredFloor) {
+    {command} on floor {preferredFloor}
+} => huddleForFloor
+
+
+def HelpIntent() {
+
+} => helpIntent
+
+#
+#def HuddleForXtiethFloor(introCommand command, buildingFloor preferredFloor) {
+#    {command} on the {preferredFloor} floor
+#} => huddleForXtiethFloor

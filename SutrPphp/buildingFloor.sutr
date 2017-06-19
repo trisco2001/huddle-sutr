@@ -1,0 +1,8 @@
+literal buildingFloor [
+    Fifteenth,
+    Sixteenth,
+    Seventeenth,
+    Eighteenth,
+    Nineteenth,
+    Twentieth
+]

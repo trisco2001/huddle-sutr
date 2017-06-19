@@ -1,0 +1,12 @@
+literal introCommand [
+    Schedule a room,
+    Set up a room,
+    Set me up a room,
+    Set us up a room,
+    Book a room,
+    Book us room,
+    Book me room,
+    Set us up the room,
+    Get me a room,
+    Get us a room
+]

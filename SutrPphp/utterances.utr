@@ -1,0 +1,111 @@
+HuddleNoProperties {Schedule a room|command}
+HuddleNoProperties {Set up a room|command}
+HuddleNoProperties {Set me up a room|command}
+HuddleNoProperties {Set us up a room|command}
+HuddleNoProperties {Book a room|command}
+HuddleNoProperties {Book us room|command}
+HuddleNoProperties {Book me room|command}
+HuddleNoProperties {Set us up the room|command}
+HuddleNoProperties {Get me a room|command}
+HuddleNoProperties {Get us a room|command}
+HuddleForFloorAndDuration {Schedule a room|command} for {duration} minutes on floor {preferredFloor}
+HuddleForFloorAndDuration {Set up a room|command} for {duration} minutes on floor {preferredFloor}
+HuddleForFloorAndDuration {Set me up a room|command} for {duration} minutes on floor {preferredFloor}
+HuddleForFloorAndDuration {Set us up a room|command} for {duration} minutes on floor {preferredFloor}
+HuddleForFloorAndDuration {Book a room|command} for {duration} minutes on floor {preferredFloor}
+HuddleForFloorAndDuration {Book us room|command} for {duration} minutes on floor {preferredFloor}
+HuddleForFloorAndDuration {Book me room|command} for {duration} minutes on floor {preferredFloor}
+HuddleForFloorAndDuration {Set us up the room|command} for {duration} minutes on floor {preferredFloor}
+HuddleForFloorAndDuration {Get me a room|command} for {duration} minutes on floor {preferredFloor}
+HuddleForFloorAndDuration {Get us a room|command} for {duration} minutes on floor {preferredFloor}
+HuddleForFloorAndDuration {Schedule a room|command} for floor {preferredFloor} for {duration} minutes
+HuddleForFloorAndDuration {Set up a room|command} for floor {preferredFloor} for {duration} minutes
+HuddleForFloorAndDuration {Set me up a room|command} for floor {preferredFloor} for {duration} minutes
+HuddleForFloorAndDuration {Set us up a room|command} for floor {preferredFloor} for {duration} minutes
+HuddleForFloorAndDuration {Book a room|command} for floor {preferredFloor} for {duration} minutes
+HuddleForFloorAndDuration {Book us room|command} for floor {preferredFloor} for {duration} minutes
+HuddleForFloorAndDuration {Book me room|command} for floor {preferredFloor} for {duration} minutes
+HuddleForFloorAndDuration {Set us up the room|command} for floor {preferredFloor} for {duration} minutes
+HuddleForFloorAndDuration {Get me a room|command} for floor {preferredFloor} for {duration} minutes
+HuddleForFloorAndDuration {Get us a room|command} for floor {preferredFloor} for {duration} minutes
+HuddleForPeopleAndFloor {Schedule a room|command} for {minPeople} people on floor {preferredFloor}
+HuddleForPeopleAndFloor {Set up a room|command} for {minPeople} people on floor {preferredFloor}
+HuddleForPeopleAndFloor {Set me up a room|command} for {minPeople} people on floor {preferredFloor}
+HuddleForPeopleAndFloor {Set us up a room|command} for {minPeople} people on floor {preferredFloor}
+HuddleForPeopleAndFloor {Book a room|command} for {minPeople} people on floor {preferredFloor}
+HuddleForPeopleAndFloor {Book us room|command} for {minPeople} people on floor {preferredFloor}
+HuddleForPeopleAndFloor {Book me room|command} for {minPeople} people on floor {preferredFloor}
+HuddleForPeopleAndFloor {Set us up the room|command} for {minPeople} people on floor {preferredFloor}
+HuddleForPeopleAndFloor {Get me a room|command} for {minPeople} people on floor {preferredFloor}
+HuddleForPeopleAndFloor {Get us a room|command} for {minPeople} people on floor {preferredFloor}
+HuddleForPeopleAndFloor {Schedule a room|command} for {minPeople} people for floor {preferredFloor}
+HuddleForPeopleAndFloor {Set up a room|command} for {minPeople} people for floor {preferredFloor}
+HuddleForPeopleAndFloor {Set me up a room|command} for {minPeople} people for floor {preferredFloor}
+HuddleForPeopleAndFloor {Set us up a room|command} for {minPeople} people for floor {preferredFloor}
+HuddleForPeopleAndFloor {Book a room|command} for {minPeople} people for floor {preferredFloor}
+HuddleForPeopleAndFloor {Book us room|command} for {minPeople} people for floor {preferredFloor}
+HuddleForPeopleAndFloor {Book me room|command} for {minPeople} people for floor {preferredFloor}
+HuddleForPeopleAndFloor {Set us up the room|command} for {minPeople} people for floor {preferredFloor}
+HuddleForPeopleAndFloor {Get me a room|command} for {minPeople} people for floor {preferredFloor}
+HuddleForPeopleAndFloor {Get us a room|command} for {minPeople} people for floor {preferredFloor}
+HuddleForPeopleAndFloor {Schedule a room|command} for floor {preferredFloor} for {minPeople} people
+HuddleForPeopleAndFloor {Set up a room|command} for floor {preferredFloor} for {minPeople} people
+HuddleForPeopleAndFloor {Set me up a room|command} for floor {preferredFloor} for {minPeople} people
+HuddleForPeopleAndFloor {Set us up a room|command} for floor {preferredFloor} for {minPeople} people
+HuddleForPeopleAndFloor {Book a room|command} for floor {preferredFloor} for {minPeople} people
+HuddleForPeopleAndFloor {Book us room|command} for floor {preferredFloor} for {minPeople} people
+HuddleForPeopleAndFloor {Book me room|command} for floor {preferredFloor} for {minPeople} people
+HuddleForPeopleAndFloor {Set us up the room|command} for floor {preferredFloor} for {minPeople} people
+HuddleForPeopleAndFloor {Get me a room|command} for floor {preferredFloor} for {minPeople} people
+HuddleForPeopleAndFloor {Get us a room|command} for floor {preferredFloor} for {minPeople} people
+HuddleForPeopleAndDuration {Schedule a room|command} for {minPeople} people for {duration} minutes
+HuddleForPeopleAndDuration {Set up a room|command} for {minPeople} people for {duration} minutes
+HuddleForPeopleAndDuration {Set me up a room|command} for {minPeople} people for {duration} minutes
+HuddleForPeopleAndDuration {Set us up a room|command} for {minPeople} people for {duration} minutes
+HuddleForPeopleAndDuration {Book a room|command} for {minPeople} people for {duration} minutes
+HuddleForPeopleAndDuration {Book us room|command} for {minPeople} people for {duration} minutes
+HuddleForPeopleAndDuration {Book me room|command} for {minPeople} people for {duration} minutes
+HuddleForPeopleAndDuration {Set us up the room|command} for {minPeople} people for {duration} minutes
+HuddleForPeopleAndDuration {Get me a room|command} for {minPeople} people for {duration} minutes
+HuddleForPeopleAndDuration {Get us a room|command} for {minPeople} people for {duration} minutes
+HuddleForPeopleAndDuration {Schedule a room|command} for {duration} minutes for {minPeople} people
+HuddleForPeopleAndDuration {Set up a room|command} for {duration} minutes for {minPeople} people
+HuddleForPeopleAndDuration {Set me up a room|command} for {duration} minutes for {minPeople} people
+HuddleForPeopleAndDuration {Set us up a room|command} for {duration} minutes for {minPeople} people
+HuddleForPeopleAndDuration {Book a room|command} for {duration} minutes for {minPeople} people
+HuddleForPeopleAndDuration {Book us room|command} for {duration} minutes for {minPeople} people
+HuddleForPeopleAndDuration {Book me room|command} for {duration} minutes for {minPeople} people
+HuddleForPeopleAndDuration {Set us up the room|command} for {duration} minutes for {minPeople} people
+HuddleForPeopleAndDuration {Get me a room|command} for {duration} minutes for {minPeople} people
+HuddleForPeopleAndDuration {Get us a room|command} for {duration} minutes for {minPeople} people
+HuddleForPeople {Schedule a room|command} for {minPeople} people
+HuddleForPeople {Set up a room|command} for {minPeople} people
+HuddleForPeople {Set me up a room|command} for {minPeople} people
+HuddleForPeople {Set us up a room|command} for {minPeople} people
+HuddleForPeople {Book a room|command} for {minPeople} people
+HuddleForPeople {Book us room|command} for {minPeople} people
+HuddleForPeople {Book me room|command} for {minPeople} people
+HuddleForPeople {Set us up the room|command} for {minPeople} people
+HuddleForPeople {Get me a room|command} for {minPeople} people
+HuddleForPeople {Get us a room|command} for {minPeople} people
+HuddleForDuration {Schedule a room|command} for {duration} minutes
+HuddleForDuration {Set up a room|command} for {duration} minutes
+HuddleForDuration {Set me up a room|command} for {duration} minutes
+HuddleForDuration {Set us up a room|command} for {duration} minutes
+HuddleForDuration {Book a room|command} for {duration} minutes
+HuddleForDuration {Book us room|command} for {duration} minutes
+HuddleForDuration {Book me room|command} for {duration} minutes
+HuddleForDuration {Set us up the room|command} for {duration} minutes
+HuddleForDuration {Get me a room|command} for {duration} minutes
+HuddleForDuration {Get us a room|command} for {duration} minutes
+HuddleForFloor {Schedule a room|command} on floor {preferredFloor}
+HuddleForFloor {Set up a room|command} on floor {preferredFloor}
+HuddleForFloor {Set me up a room|command} on floor {preferredFloor}
+HuddleForFloor {Set us up a room|command} on floor {preferredFloor}
+HuddleForFloor {Book a room|command} on floor {preferredFloor}
+HuddleForFloor {Book us room|command} on floor {preferredFloor}
+HuddleForFloor {Book me room|command} on floor {preferredFloor}
+HuddleForFloor {Set us up the room|command} on floor {preferredFloor}
+HuddleForFloor {Get me a room|command} on floor {preferredFloor}
+HuddleForFloor {Get us a room|command} on floor {preferredFloor}
+HuddleNeedMeetingRoom give me a meeting room

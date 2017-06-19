@@ -1,0 +1,29 @@
+HuddleNoProperties {Schedule a room|command}
+HuddleNoProperties {Set up a room|command}
+HuddleNoProperties {I need a room|command}
+HuddleNoProperties {I demand a room|command}
+HuddleNoProperties {Set us up a room|command}
+HuddleForPeople {Schedule a room|command} for {minPeople} people
+HuddleForPeople {Set up a room|command} for {minPeople} people
+HuddleForPeople {I need a room|command} for {minPeople} people
+HuddleForPeople {I demand a room|command} for {minPeople} people
+HuddleForPeople {Set us up a room|command} for {minPeople} people
+
+HuddleForDuration {Schedule a room|command} for {duration} minutes
+HuddleForDuration {Set up a room|command} for {duration} minutes
+HuddleForDuration {I need a room|command} for {duration} minutes
+HuddleForDuration {I demand a room|command} for {duration} minutes
+HuddleForDuration {Set us up a room|command} for {duration} minutes
+
+HuddleForFloor {Schedule a room|command} on floor {preferredFloor}
+HuddleForFloor {Set up a room|command} on floor {preferredFloor}
+HuddleForFloor {I need a room|command} on floor {preferredFloor}
+HuddleForFloor {I demand a room|command} on floor {preferredFloor}
+HuddleForFloor {Set us up a room|command} on floor {preferredFloor}
+
+HuddleForFloor {Schedule a room|command} on the {preferredFloor} floor
+HuddleForFloor {Set up a room|command} on the {preferredFloor} floor
+HuddleForFloor {I need a room|command} on the {preferredFloor} floor
+HuddleForFloor {I demand a room|command} on the {preferredFloor} floor
+HuddleForFloor {Set us up a room|command} on the {preferredFloor} floor
+

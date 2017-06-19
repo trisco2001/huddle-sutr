@@ -1,0 +1,110 @@
+{
+  "intents": [
+    {
+      "intent": "HuddleNoProperties",
+      "slots": [
+        {
+          "name": "command",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    },
+    {
+      "intent": "HuddleForFloorAndDuration",
+      "slots": [
+        {
+          "name": "command",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "duration",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "preferredFloor",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "HuddleForPeopleAndFloor",
+      "slots": [
+        {
+          "name": "command",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "minPeople",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "preferredFloor",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "HuddleForPeopleAndDuration",
+      "slots": [
+        {
+          "name": "command",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "minPeople",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "duration",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "HuddleForPeople",
+      "slots": [
+        {
+          "name": "command",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "minPeople",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "HuddleForDuration",
+      "slots": [
+        {
+          "name": "command",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "duration",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "HuddleForFloor",
+      "slots": [
+        {
+          "name": "command",
+          "type": "AMAZON.LITERAL"
+        },
+        {
+          "name": "preferredFloor",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "HuddleNeedMeetingRoom",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
